@@ -1,0 +1,17 @@
+# Python program to add two numbers
+num1 = 18
+num2 = 7
+# Adding two numbers
+sum = num1 + num2
+# printing values
+print(f“Sum of {num1} and {num2} is {sum}”)
+ Python program to check if a string is palindrome or not.
+
+mystr = “malayalam”
+# reversing a string 
+rev = mystr[::-1]
+if mystr == rev:
+ print(“Yes”)
+else:
+ print(“No”)
+
